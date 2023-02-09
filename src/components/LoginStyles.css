@@ -1,0 +1,85 @@
+.Login{
+    height: 100vh;
+    background-color: rgba(0,0,0,0.35);
+}
+
+.Auth{
+    height: 100vh;
+    background-color: rgba(0,0,0,0.35);
+}
+
+.Main{
+    background-image: url('C:\Users\bvabi\OneDrive\Desktop\stargate-app\src\images\bg.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+    font-family: 'Mulish', sans-serif;
+    color: #05467C;
+}
+
+.header-name{
+    background-color: #05467C;
+    opacity: 0.9;
+    color: white;
+}
+
+.printqr{
+    font-family: 'Mulish',sans-serif;
+    font-weight: 700;
+}
+
+.printpage{
+    font-family: 'Mulish',sans-serif;
+    font-weight: 700;
+}
+
+.navbar{
+    font-family: 'Mulish',sans-serif;
+    font-weight: 700;
+}
+
+.settings{
+    font-family: 'Mulish',sans-serif;
+}
+
+#myProgress {
+    width: 40%;
+    background-color: white;
+  }
+  
+  #myBar {
+    width: 1%;
+    height: 15px;
+    background-color:#2A5A86;
+  }
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.dropdown-list {
+    position: absolute;
+    top: 100%;
+    right: 2px;
+    background-color: #05467C;
+    padding: 10px 0;
+    border: 1px solid #05467C;
+    border-radius: 0 0 10px 10px;
+    width: 240px;
+    z-index: 999;
+  }
+  
+  .dropdown-list li {
+    padding: 10px 20px;
+    list-style: none;
+  }
+
+.nav-item{
+    margin-right: 5px;
+    border-radius: 10px;
+}
+
+
+
